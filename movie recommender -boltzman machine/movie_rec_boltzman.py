@@ -1,4 +1,4 @@
-'''from machine learning A-Z course
+'''from deep learning A-Z course
    coded by trishit nath thakur'''
 
 #Boltzmann Machine
